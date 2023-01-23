@@ -1,0 +1,58 @@
+
+h2{
+    text-align: center;
+    font: bold 40px "sans-serif";
+    margin-left: -40px;
+}
+ul{
+    text-align: center;
+    display: flex;
+    margin-left: 5%
+}
+
+body{
+    background: white;
+    align-items: center;
+}
+
+button{
+    color: black;
+    padding: 10px;
+    margin: 20px;
+    background-color: yellow;
+    border-radius: 10px;
+    border: 2px solid;
+    font-weight: bold;
+}
+button:disabled{
+    opacity: 40%;
+}
+button:hover:enabled{
+    cursor: pointer;
+}
+input{
+    max-width: 70px;
+    color: black;
+    background-color: yellow;
+    border-radius: 5px;
+    border: 2px solid black;
+    padding: 5px;
+}
+input:disabled{
+    opacity: 50%;
+}
+table{
+    margin-left: 10%;
+    margin-right: 30%;
+    text-align: center;
+}
+table,td{
+    background-color: yellow;
+    border-collapse: collapse;
+    text-align: center;
+    font: 30px "sans-serif";
+    border: 2px solid black;
+    padding: 5px;
+    font-weight: bold;
+
+}

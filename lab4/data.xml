@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<subjects>
+
+  <sub><id>1</id><subject>Math</subject><points>98</points><grade>A</grade></sub>
+  <sub><id>2</id><subject>English</subject><points>76</points><grade>C</grade></sub>
+  <sub><id>3</id><subject>Web</subject><points>80</points><grade>B</grade></sub>
+
+</subjects>

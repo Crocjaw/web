@@ -1,0 +1,64 @@
+h2 {
+    font-size: 40px;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+form {
+    margin-left: 50px;
+    border: 3px solid black;
+    width: 500px;
+    align-items: center;
+    border-radius: 5px;
+    background-color: gray;
+}
+
+.form-item {
+    margin-left: 20px;
+    background-color: gray;
+}
+
+button {
+    margin-left: 320px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px 20px;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    opacity: 80%;
+}
+button:hover{
+    opacity: 100%;
+    cursor: pointer;
+}
+label {
+    padding: 7px 15px;
+    margin-left: auto;
+    background-color: gray;
+}
+
+input {
+    border-radius: 10px;
+    height: 30px;
+    background-color: blueviolet;
+
+}
+::placeholder{
+    color: white;
+    font-style: italic;
+}
+div{
+    color: red;
+    font-size: 50px;
+}
+input[name='subject']{
+    margin-left: 10px;
+}
+input[name='points']{
+    margin-left: 20px;
+}
+input[name='grade']{
+    margin-left: 20px;
+}
